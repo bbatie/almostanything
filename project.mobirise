@@ -1,0 +1,66 @@
+{
+  "settings": {
+    "name": "AlmostAnything_landingpage",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 1,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H1": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bacground-2000x1572.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "Almost Anything App",
+          "text": "Our app gives you a very easy way to contact us through phone, email or text messaging, see some of our before and after work pictures, get a list of some of the services we can help you with, some DIY video tips, a personal project list with title, description of what needs to be done and even the date you added it, and even a request quote that lets you send details and photos of your project you need help with directly to us to help  get a better understanding of the project before we get there.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://itunes.apple.com/us/app/almostanything/id1238816997?mt=8\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW iOS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://play.google.com/store/apps/details?id=com.cincyplanet.almostanything&amp;hl=en\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW ANDROID</a> "
+        }
+      ]
+    }
+  }
+}
